@@ -1,0 +1,21 @@
+export const verifiedFoods = [
+    { code: 'v_apple', product_name: 'Apple (Medium)', calories: 95, protein: 0.5, carbs: 25, fat: 0.3, serving_size: '1 medium (182g)', brands: 'Generic', isVerified: true },
+    { code: 'v_banana', product_name: 'Banana (Medium)', calories: 105, protein: 1.3, carbs: 27, fat: 0.4, serving_size: '1 medium (118g)', brands: 'Generic', isVerified: true },
+    { code: 'v_egg_large', product_name: 'Egg (Large, Boiled)', calories: 78, protein: 6.3, carbs: 0.6, fat: 5.3, serving_size: '1 large', brands: 'Generic', isVerified: true },
+    { code: 'v_chicken_breast', product_name: 'Chicken Breast (Cooked)', calories: 165, protein: 31, carbs: 0, fat: 3.6, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_rice_white', product_name: 'White Rice (Cooked)', calories: 130, protein: 2.7, carbs: 28, fat: 0.3, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_rice_brown', product_name: 'Brown Rice (Cooked)', calories: 111, protein: 2.6, carbs: 23, fat: 0.9, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_oats', product_name: 'Oats (Rolled, Raw)', calories: 389, protein: 16.9, carbs: 66, fat: 6.9, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_milk_whole', product_name: 'Whole Milk', calories: 61, protein: 3.2, carbs: 4.8, fat: 3.3, serving_size: '100ml', brands: 'Generic', isVerified: true },
+    { code: 'v_bread_white', product_name: 'White Bread', calories: 265, protein: 9, carbs: 49, fat: 3.2, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_avocado', product_name: 'Avocado', calories: 160, protein: 2, carbs: 8.5, fat: 14.7, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_potato', product_name: 'Potato (Baked)', calories: 93, protein: 2.5, carbs: 21, fat: 0.1, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_sweet_potato', product_name: 'Sweet Potato (Baked)', calories: 90, protein: 2, carbs: 20.7, fat: 0.1, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_olive_oil', product_name: 'Olive Oil', calories: 884, protein: 0, carbs: 0, fat: 100, serving_size: '1 tbsp (15ml)', brands: 'Generic', isVerified: true },
+    { code: 'v_almonds', product_name: 'Almonds', calories: 579, protein: 21, carbs: 22, fat: 50, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_salmon', product_name: 'Salmon (Cooked)', calories: 208, protein: 20, carbs: 0, fat: 13, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_yogurt_greek', product_name: 'Greek Yogurt (Plain)', calories: 59, protein: 10, carbs: 3.6, fat: 0.4, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_peanut_butter', product_name: 'Peanut Butter', calories: 588, protein: 25, carbs: 20, fat: 50, serving_size: '100g', brands: 'Generic', isVerified: true },
+    { code: 'v_coke', product_name: 'Coca-Cola', calories: 42, protein: 0, carbs: 10.6, fat: 0, serving_size: '100ml', brands: 'Coca-Cola', isVerified: true },
+    { code: 'v_broccoli', product_name: 'Broccoli (Cooked)', calories: 35, protein: 2.4, carbs: 7.2, fat: 0.4, serving_size: '100g', brands: 'Generic', isVerified: true }
+];
