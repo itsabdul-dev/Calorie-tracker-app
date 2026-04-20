@@ -2,17 +2,17 @@
 A premium, AI-powered calorie and nutrition tracking mobile application built with React Native and Expo. Designed with a "Deep Nature" aesthetic, the app delivers a seamless and beautiful experience for users who want to take control of their health and diet.
 
 ## ✨ Features
-- **📸 AI Food Recognition — Snap a photo of any meal and let Google Gemini AI instantly estimate calories and macros
-- **🔍 Food Search — Search millions of foods powered by the Open Food Facts database
-- **📷 Barcode Scanner — Scan packaged foods to instantly log nutritional data
-- **📊 Macro Tracking — Track Protein, Carbs, and Fat alongside your daily calorie goal
-- **📈 Weekly Stats — Interactive charts showing calorie trends and weight progress over time
-- **🍽️ Meal Sections — Organize entries by Breakfast, Lunch, Dinner, and Snacks
-- **🎯 Progress Ring — Animated circular progress indicator for your daily calorie goal
-- **🔐 Secure Auth — Full authentication flow with email/password via Supabase
-- **👤 User Profiles — Personalized goals based on user profile data
-- **💡 AI Insights — Smart suggestions and nutritional insights powered by AI
-- **🛠️ Tech Stack
+- 📸 AI Food Recognition — Snap a photo of any meal and let Google Gemini AI instantly estimate calories and macros
+- 🔍 Food Search — Search millions of foods powered by the Open Food Facts database
+- 📷 Barcode Scanner — Scan packaged foods to instantly log nutritional data
+- 📊 Macro Tracking — Track Protein, Carbs, and Fat alongside your daily calorie goal
+- 📈 Weekly Stats — Interactive charts showing calorie trends and weight progress over time
+- 🍽️ Meal Sections — Organize entries by Breakfast, Lunch, Dinner, and Snacks
+- 🎯 Progress Ring — Animated circular progress indicator for your daily calorie goal
+- 🔐 Secure Auth — Full authentication flow with email/password via Supabase
+- 👤 User Profiles — Personalized goals based on user profile data
+- 💡 AI Insights — Smart suggestions and nutritional insights powered by AI
+- 🛠️ Tech Stack
 
 ## Layer	Technology
 
